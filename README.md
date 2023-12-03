@@ -1,15 +1,14 @@
 # CC-Fraud
 
-- A machine learning project used to detect fraudulent credit card transactions
+- A machine learning project using Random Forest Classification to flag potentially fraudulent credit card transactions.
 
 ### How to Use
 
 The notebook can be viewed on Google Colaboratory or Jupyter notebooks.
 
-- Google Colaboratory
+- View on Google Colaboratory:
 
-[https://colab.research.google.com/drive/1GW3Efc_JBUA_5y5aVuBghhB6rgE-sPsC?usp=sharing](https://colab.research.google.com/drive/1GW3Efc_JBUA_5y5aVuBghhB6rgE-sPsC?usp=sharing)
+[cc-fraud.ipynb](https://colab.research.google.com/drive/1GW3Efc_JBUA_5y5aVuBghhB6rgE-sPsC?usp=sharing)
 
-- Jupyter Notebooks
-
-1.
+<!-- TODO: Jupyter Notebooks Instructions -->
+<!-- - Jupyter Notebooks -->
