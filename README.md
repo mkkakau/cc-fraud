@@ -1,6 +1,11 @@
 # CC-Fraud
+This is a machine learning project written in Python using an algorithm called Random Forest Classification. It can be used to flag potentially fraudulent credit card transactions. This was written for my Computer Science Capstone project at Western Governor's University and you can read my project proposal [here](Capstone%20Melanie%20Akau.pdf)
 
-- A machine learning project using Random Forest Classification to flag potentially fraudulent credit card transactions.
+### Python Libraries Used:
+- [Pandas](https://pandas.pydata.org/docs/getting_started/index.html)
+- [Matplotlib](https://matplotlib.org/stable/index.html)
+- [scikit-learn](https://scikit-learn.org/stable/modules/classes.html)
+- [imbalanced-learn](https://imbalanced-learn.org/stable/)
 
 ### How to Use
 
